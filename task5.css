@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #0d001a, #330033);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 30px 40px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(255, 0, 150, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #ff66cc;
+  text-shadow: 0 0 10px #ff66cc;
+}
+
+input {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  width: 70%;
+  margin-bottom: 15px;
+  outline: none;
+  font-size: 1rem;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff66cc;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #ff3399;
+  box-shadow: 0 0 10px #ff66cc;
+}
+
+#weatherBox {
+  margin-top: 25px;
+}
+
+.hidden {
+  display: none;
+}

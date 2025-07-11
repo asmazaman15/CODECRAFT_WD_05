@@ -1,6 +1,6 @@
 # CODECRAFT_WD_05 – Weather App 🌦
 
-📍 **Internship Task 5 for CodeCraft Infotech – Web Development Track**
+📍 **Internship Task 5 for CODECRAFT INFOTECH – Web Development Track**
 
 (Fulfilled all API integration & UI design requirements)
 
